@@ -1,3 +1,3 @@
 # Kharoxe's SMS Bomber Tool
-# Developed By Kharoxe#1010
-# https://kharoxe.cf
+# Developed By Kharoxe#0083
+# https://kharoxe.xyz
