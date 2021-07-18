@@ -26,8 +26,8 @@ print(Fore.CYAN + ("""
 |  $$$$$$/| $$ \/  | $$|  $$$$$$/      | $$$$$$$/|  $$$$$$/| $$ \/  | $$| $$$$$$$/| $$$$$$$$| $$  | $$
  \______/ |__/     |__/ \______/       |_______/  \______/ |__/     |__/|_______/ |________/|__/  |__/
 
-    By : Kharoxe#1010
-    Site : kharoxe.cf
+    By : Kharoxe#0083
+    Site : kharoxe.xyz
     Not : Herhangi Bir Kötü Amaçlı Kullanıma Dair Sorumlu Değilimdir.
 """))
 
